@@ -5,7 +5,7 @@
  ** usage: copy this to chrome-console, it will anaylysis your google result,and give a useful text like:
  ** 	site:www.jiangsu.gov.cn OR site:www.jshrss.gov.cn OR site:www.jshb.gov.cn OR site:www.jsjyt.gov.cn OR site:www.jsagri.gov.cn OR site:big OR site:big OR site:www.fhzbmfw.gov.cn OR site:www.jstd.gov.cn OR site:rd.sqsc.gov.cn 
  ** 实际利用：例如需要查看某个省市的政府部门是否被挂上博彩信息，先搜索 南京 site:gov.cn,在console里输入本脚本
- ** 	再打开一个新页面，google  博彩 site:www.jiangsu.gov.cn OR site:www.jshrss.gov.cn ..
+ ** 	再打开一个新的google页面，搜索  博彩 site:www.jiangsu.gov.cn OR site:www.jshrss.gov.cn ..
  **/
 function GetKeyWords(){
 	var html=document.body.innerHTML
