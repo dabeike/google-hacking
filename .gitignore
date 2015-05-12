@@ -1,1 +1,26 @@
 .idea/
+
+
+i.net/website-firewall/">Sucuri WebSite Firewall -  CloudProxy - Access Denied</
+a></h2>\n\n\n<div class="reg-faqfull">\n<h4>What is going on?</h4>\n<b>You are n
+ot allowed to access the requested page.</b> If you are the site owner, please o
+pen a ticket in our support page if you think it was caused by an error: <a href
+="https://support.sucuri.net">https://support.sucuri.net</a>. If you are not the
+ owner of the web site, you can contact us at soc@sucuri.net. Also make sure to
+include the block details (displayed below), so we can better troubleshoot the e
+rror.\n</div>\n\n<div class="reg-faqfull">\n<h4>Block details</h4>\n\n<ul>\n\n<l
+i>Your IP: <b><span id="req-remote-addr">Loading...</span></b></li>\n<li>URL: <b
+
+
+
+E:\Python27\lib\site-packages\requests-2.7.0-py2.7.egg\requests\packages\urllib3
+\util\ssl_.py:90: InsecurePlatformWarning: A true SSLContext object is not avail
+able. This prevents urllib3 from configuring SSL appropriately and may cause cer
+tain SSL connections to fail. For more information, see https://urllib3.readthed
+ocs.org/en/latest/security.html#insecureplatformwarning.
+  InsecurePlatformWarning
+E:\Python27\lib\site-packages\requests-2.7.0-py2.7.egg\requests\packages\urllib3
+\connectionpool.py:768: InsecureRequestWarning: Unverified HTTPS request is bein
+g made. Adding certificate verification is strongly advised. See: https://urllib
+3.readthedocs.org/en/latest/security.html
+  InsecureRequestWarning)
